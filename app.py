@@ -78,4 +78,4 @@ st.pyplot(fig)
 
 # Thông tin sinh viên tạo app (Bạn sửa lại Họ tên & MSSV của bạn ở đây)
 st.markdown("---")
-st.caption("👨‍🎓 **Họ và tên:** Nguyễn Văn A | **MSSV:** 20123456")
+st.caption("👨‍🎓 **Họ và tên:** Tôn Thất Minh Quân | **MSSV:** 068208004496")
